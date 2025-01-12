@@ -173,7 +173,7 @@ quiz-application/
 
 ## **License**
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Oyster Kode Club](LICENSE).
 
 --- 
 
