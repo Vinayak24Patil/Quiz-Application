@@ -152,10 +152,10 @@ quiz-application/
 ## **Screenshots**
 
 ### Login Page  
-![Login Page Screenshot](documentation/Screenshots/login.png)  
+
 
 ### Quiz Dashboard  
-![Quiz Dashboard Screenshot](documentation/Screenshots/dashboard.png)
+
 
 *Add more screenshots in the `documentation/Screenshots` folder.*
 
